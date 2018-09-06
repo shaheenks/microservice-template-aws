@@ -1,0 +1,15 @@
+{
+  "name": "microservice-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "validate": "echo validate",
+    "init": "echo init",
+    "compile": "echo compile",
+    "package": "echo package",
+    "test": "echo test",
+    "install": "echo install",
+    "deploy": "echo deploy"
+  }
+}
